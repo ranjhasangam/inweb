@@ -2,7 +2,6 @@ import { Link } from "@tanstack/react-router";
 import { ArrowUpRight, Menu } from "lucide-react";
 import { useEffect, useState } from "react";
 
-import logoAsset from "@/src="/favicon.png"";
 import { CallbackDialog } from "@/components/CallbackDialog";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetClose, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
@@ -50,8 +49,8 @@ export function Header() {
       >
         <Link to="/" className="flex items-center gap-3" aria-label={`${site.name} home`}>
           <img
-            src={logoAsset.url}
-            alt=""
+            src="/favicon.png"
+            alt="sd digital hub"
             aria-hidden="true"
             className="size-9 rounded-md object-contain"
           />
