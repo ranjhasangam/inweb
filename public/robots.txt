@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Private / non-public routes
+Disallow: /api/
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /private
+
+Sitemap: https://sddigitalhub.in/sitemap.xml
