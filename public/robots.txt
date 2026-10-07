@@ -7,4 +7,4 @@ Disallow: /admin
 Disallow: /dashboard
 Disallow: /private
 
-Sitemap: https://sddigitalhub.in/sitemap.xml
+Sitemap: https://sddigitalhub.co.in/sitemap.xml
