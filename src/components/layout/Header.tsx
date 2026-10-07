@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { ArrowUpRight, Menu } from "lucide-react";
 import { useEffect, useState } from "react";
 
-import logoAsset from "@/assets/sd-logo.jpg.asset.json";
+import logoAsset from "@/src="/favicon.png"";
 import { CallbackDialog } from "@/components/CallbackDialog";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetClose, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
