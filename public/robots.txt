@@ -1,10 +1,20 @@
 User-agent: *
-Allow: /
+Allow: /home
+Allow: /contact us
+Allow: /team
+Allow: /services
+Allow: /about
+Allow: demo.sddigitalhub.co.in
+Allow: blog.sddigitalhub.site
+
+
 
 # Private / non-public routes
 Disallow: /api/
 Disallow: /admin
 Disallow: /dashboard
 Disallow: /private
+Disallow: admin.sddigitalhub.co.in
+Disallow: crm.sddigitalhub.co.in
 
 Sitemap: https://sddigitalhub.co.in/sitemap.xml
