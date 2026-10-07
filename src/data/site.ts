@@ -9,11 +9,11 @@ export const site = {
     "SD Digital Hub is a digital agency based in Narkatiaganj, West Champaran, Bihar. We design, build and maintain websites, online stores, mobile apps and digital presence for businesses that want to be taken seriously online.",
   shortDescription:
     "A digital agency building websites, stores, apps and digital presence for growing businesses.",
-  url: "https://sddigitalhub.in",
-  blogUrl: "https://blog.sddigitalhub.in",
-  demoUrl: "https://demo.sddigitalhub.in",
-  email: "info@sddigitalhub.in",
-  supportEmail: "support@sddigitalhub.in",
+  url: "https://sddigitalhub.co.in",
+  blogUrl: "https://blog.sddigitalhub.site",
+  demoUrl: "https://demo.sddigitalhub.co.in",
+  email: "info@sddigitalhub.co.in",
+  supportEmail: "support@sddigitalhub.co.in",
   phone: "+91 99733 62849",
   // Digits only, with country code. Used to open WhatsApp.
   whatsappNumber: "919973362849",
@@ -64,7 +64,6 @@ export const about = {
   capabilities: [
     "Website design & development",
     "E-commerce stores",
-    "Mobile applications",
     "Search & digital marketing",
     "Branding & graphic design",
     "Hosting, domains & maintenance",
