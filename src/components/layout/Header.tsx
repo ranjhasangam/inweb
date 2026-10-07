@@ -2,6 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { ArrowUpRight, Menu } from "lucide-react";
 import { useEffect, useState } from "react";
 
+import logoAsset from "@/assets/sd-logo.jpg.asset.json";
 import { CallbackDialog } from "@/components/CallbackDialog";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetClose, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
@@ -49,7 +50,7 @@ export function Header() {
       >
         <Link to="/" className="flex items-center gap-3" aria-label={`${site.name} home`}>
           <img
-            src="https://sddigitalhub.co.in/favicon.png"
+            src={logoAsset.url}
             alt=""
             aria-hidden="true"
             className="size-9 rounded-md object-contain"
