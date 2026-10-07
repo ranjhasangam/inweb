@@ -49,8 +49,8 @@ export function Header() {
       >
         <Link to="/" className="flex items-center gap-3" aria-label={`${site.name} home`}>
           <img
-            src="/favicon.png"
-            alt="sd digital hub"
+            src="https://sddigitalhub.co.in/favicon.png"
+            alt=""
             aria-hidden="true"
             className="size-9 rounded-md object-contain"
           />
