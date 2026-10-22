@@ -12,7 +12,7 @@ export const site = {
   url: "https://sddigitalhub.co.in",
   blogUrl: "https://blog.sddigitalhub.site",
   demoUrl: "https://demo.sddigitalhub.co.in",
-  email: "info@sddigitalhub.co.in",
+  email: "info@sddigitalhub.site",
   supportEmail: "support@sddigitalhub.co.in",
   phone: "+91 99733 62849",
   // Digits only, with country code. Used to open WhatsApp.
