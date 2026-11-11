@@ -29,7 +29,7 @@ export type TeamMember = {
 export const team: TeamMember[] = [
   {
     id: "founder",
-    name: "Founder & Director",
+    name: "Founder & Director harsh",
     slug: "founder harsh",
     role: "Founder & Director",
     shortBio: "Leads client conversations, project scoping and delivery at SD Digital Hub.",
